@@ -77,9 +77,8 @@ const dateStr = today.toLocaleDateString('en-US', {
   month: 'long', day: 'numeric', year: 'numeric'
 });
 
-let body = 'Good morning, Landry! ☀️\n';
-body += 'Here\'s your workload summary for ' + dayName + ', ' + dateStr + ':\n';
-body += '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n';
+let body = 'Landry,';
+body += 'Here are your task\'s for' + dayName + ', ' + dateStr + ':\n';
 
 const totalActive = overdue.length + dueToday.length + dueThisWk.length;
 
@@ -136,7 +135,7 @@ const transporter = nodemailer.createTransport({
 });
 
 transporter.sendMail({
-  from: '"Workload Bot 🤖" <' + process.env.SMTP_USER + '>',
+  from: '"Daily Workload" <' + process.env.SMTP_USER + '>',
   to: process.env.EMAIL_TO,
   subject: subject,
   text: body,

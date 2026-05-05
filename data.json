@@ -1,0 +1,38 @@
+{
+  "projectName": "My Project",
+  "buckets": [
+    "To Do",
+    "In Progress"
+  ],
+  "labels": [
+    {
+      "name": "Entitlements",
+      "color": "#8b5cf6"
+    },
+    {
+      "name": "Development",
+      "color": "#0891b2"
+    },
+    {
+      "name": "Design",
+      "color": "#ec4899"
+    },
+    {
+      "name": "Engineering",
+      "color": "#f97316"
+    },
+    {
+      "name": "Admin",
+      "color": "#6b7280"
+    }
+  ],
+  "tasks": [],
+  "notes": [],
+  "nextId": 1,
+  "nextNoteId": 1,
+  "darkMode": false,
+  "compact": false,
+  "myName": "",
+  "folders": [],
+  "nextFolderId": 1
+}

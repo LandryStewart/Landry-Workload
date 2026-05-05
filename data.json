@@ -445,6 +445,19 @@
       "checklist": [],
       "id": 31,
       "created": "2026-05-05"
+    },
+    {
+      "title": "Lantana - Disposition",
+      "assignee": "",
+      "bucket": "To Do (Misc.)",
+      "due": "2026-06-15",
+      "priority": "Medium",
+      "pct": 0,
+      "notes": "XTO - Gas Pad site (get cost for P&A)\nColton / Rian for selling 407 land",
+      "labels": [],
+      "checklist": [],
+      "id": 32,
+      "created": "2026-05-05"
     }
   ],
   "notes": [
@@ -465,7 +478,7 @@
       "updated": "2026-05-05T18:39:52.567Z"
     }
   ],
-  "nextId": 32,
+  "nextId": 33,
   "nextNoteId": 11,
   "darkMode": false,
   "compact": false,

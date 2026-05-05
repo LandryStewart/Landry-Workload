@@ -179,32 +179,6 @@
       "checklist": [],
       "id": 8,
       "created": "2026-05-05"
-    },
-    {
-      "title": "tete",
-      "assignee": "",
-      "bucket": "In Progress",
-      "due": "",
-      "priority": "Medium",
-      "pct": 0,
-      "notes": "",
-      "labels": [],
-      "checklist": [],
-      "id": 10,
-      "created": "2026-05-05"
-    },
-    {
-      "title": "Gh",
-      "assignee": "",
-      "bucket": "In Progress",
-      "due": "",
-      "priority": "Medium",
-      "pct": 0,
-      "notes": "",
-      "labels": [],
-      "checklist": [],
-      "id": 11,
-      "created": "2026-05-05"
     }
   ],
   "notes": [

@@ -419,6 +419,19 @@
       "checklist": [],
       "id": 29,
       "created": "2026-05-05"
+    },
+    {
+      "title": "Cemetery Access",
+      "assignee": "",
+      "bucket": "Internal Legal",
+      "due": "2026-05-07",
+      "priority": "Critical",
+      "pct": 0,
+      "notes": "Joanna leading the charge.. Need an update.",
+      "labels": [],
+      "checklist": [],
+      "id": 30,
+      "created": "2026-05-05"
     }
   ],
   "notes": [
@@ -431,7 +444,7 @@
       "updated": "2026-05-05T17:50:22.762Z"
     }
   ],
-  "nextId": 30,
+  "nextId": 31,
   "nextNoteId": 3,
   "darkMode": false,
   "compact": false,

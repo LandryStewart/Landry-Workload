@@ -275,13 +275,26 @@
       "title": "BVRT Insurance / Initial Payment",
       "assignee": "",
       "bucket": "Internal Legal",
-      "due": "",
+      "due": "2026-05-08",
       "priority": "High",
       "pct": 0,
       "notes": "Chelsea needing to approve WC",
       "labels": [],
       "checklist": [],
       "id": 19,
+      "created": "2026-05-05"
+    },
+    {
+      "title": "BVRT Permanent Easement",
+      "assignee": "",
+      "bucket": "Internal Legal",
+      "due": "2026-05-08",
+      "priority": "Critical",
+      "pct": 0,
+      "notes": "Need this ASAP",
+      "labels": [],
+      "checklist": [],
+      "id": 20,
       "created": "2026-05-05"
     }
   ],
@@ -295,7 +308,7 @@
       "updated": "2026-05-05T17:03:45.403Z"
     }
   ],
-  "nextId": 20,
+  "nextId": 21,
   "nextNoteId": 2,
   "darkMode": false,
   "compact": false,

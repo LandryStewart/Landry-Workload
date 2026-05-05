@@ -296,6 +296,19 @@
       "checklist": [],
       "id": 20,
       "created": "2026-05-05"
+    },
+    {
+      "title": "BVRT Seperate Instrument",
+      "assignee": "",
+      "bucket": "In Progress",
+      "due": "2026-05-13",
+      "priority": "High",
+      "pct": 0,
+      "notes": "Easement Exhibits being done by KHA\nEasement Language being done by CR",
+      "labels": [],
+      "checklist": [],
+      "id": 21,
+      "created": "2026-05-05"
     }
   ],
   "notes": [
@@ -308,7 +321,7 @@
       "updated": "2026-05-05T17:03:45.403Z"
     }
   ],
-  "nextId": 21,
+  "nextId": 22,
   "nextNoteId": 2,
   "darkMode": false,
   "compact": false,

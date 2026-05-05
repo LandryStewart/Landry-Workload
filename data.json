@@ -47,11 +47,11 @@
         },
         {
           "text": "Proforma",
-          "done": false
+          "done": true
         },
         {
           "text": "Site Plan",
-          "done": false
+          "done": true
         },
         {
           "text": "DD Checklist",

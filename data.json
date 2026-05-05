@@ -320,7 +320,12 @@
       "pct": 0,
       "notes": "Need to get this finalized",
       "labels": [],
-      "checklist": [],
+      "checklist": [
+        {
+          "text": "Matthew - WasteConnection",
+          "done": false
+        }
+      ],
       "id": 22,
       "created": "2026-05-05"
     },

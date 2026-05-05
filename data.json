@@ -153,6 +153,19 @@
       "checklist": [],
       "id": 6,
       "created": "2026-05-05"
+    },
+    {
+      "title": "Ag Exepmtions?",
+      "assignee": "",
+      "bucket": "To Do (Misc.)",
+      "due": "",
+      "priority": "Low",
+      "pct": 0,
+      "notes": "Email Courtney / Marylin to see if they know what parcels we have in Ag.",
+      "labels": [],
+      "checklist": [],
+      "id": 7,
+      "created": "2026-05-05"
     }
   ],
   "notes": [
@@ -165,7 +178,7 @@
       "updated": "2026-05-05T15:18:31.365Z"
     }
   ],
-  "nextId": 7,
+  "nextId": 8,
   "nextNoteId": 2,
   "darkMode": false,
   "compact": false,

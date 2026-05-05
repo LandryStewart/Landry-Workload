@@ -356,7 +356,7 @@ input,select,textarea{font-family:inherit;color:var(--text);}
 
 <script>
 const MASTER_PW_HASH="47935c56471414059944a0c7a6a6094451ad3accd63b6776eb780788267b5a25";
-const GH_REPO="LandryStewart/Landry-Workload";
+const GH_REPO="LandryStewart/Landry-workload";
 const GH_FILE="data.json";
 async function hashPw(pw){const e=new TextEncoder().encode(pw);const b=await crypto.subtle.digest('SHA-256',e);return Array.from(new Uint8Array(b)).map(x=>x.toString(16).padStart(2,'0')).join('');}
 function initAuth(){const t=localStorage.getItem('wm_auth_token'),e=localStorage.getItem('wm_auth_exp');if(t&&e&&Date.now()<parseInt(e)){unlockApp();return;}localStorage.removeItem('wm_auth_token');localStorage.removeItem('wm_auth_exp');document.getElementById('authOverlay').classList.remove('hidden');}

@@ -44,7 +44,7 @@
       "checklist": [
         {
           "text": "IC Cover Sheet",
-          "done": false
+          "done": true
         },
         {
           "text": "Proforma",
@@ -72,7 +72,7 @@
         },
         {
           "text": "ROFO - Do we need / have?",
-          "done": false
+          "done": true
         },
         {
           "text": "CMA",

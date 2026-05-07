@@ -28,8 +28,8 @@
       "color": "#f97316"
     },
     {
-      "name": "Admin",
-      "color": "#6b7280"
+      "name": "Waiting on Response",
+      "color": "#000000"
     }
   ],
   "tasks": [
@@ -212,7 +212,9 @@
       "priority": "High",
       "pct": 25,
       "notes": "Follow up for word document\n\nFollowed up 05/07",
-      "labels": [],
+      "labels": [
+        "Waiting on Response"
+      ],
       "checklist": [],
       "id": 13,
       "created": "2026-05-05"

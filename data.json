@@ -455,9 +455,26 @@
       "due": "2026-05-07",
       "priority": "Critical",
       "pct": 0,
-      "notes": "Joanna leading the charge.. Need an update.",
+      "notes": "Joanna leading the charge.. Need an update.\n\nTouch base with Rian ASAP",
       "labels": [],
-      "checklist": [],
+      "checklist": [
+        {
+          "text": "Land Dedication",
+          "done": false
+        },
+        {
+          "text": "Improvements",
+          "done": false
+        },
+        {
+          "text": "Closing Cost",
+          "done": false
+        },
+        {
+          "text": "Easement",
+          "done": false
+        }
+      ],
       "id": 30,
       "created": "2026-05-05"
     },

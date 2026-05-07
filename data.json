@@ -217,7 +217,12 @@
       "labels": [
         "Waiting on Response"
       ],
-      "checklist": [],
+      "checklist": [
+        {
+          "text": "KHA to update exhibits",
+          "done": false
+        }
+      ],
       "id": 13,
       "created": "2026-05-05"
     },

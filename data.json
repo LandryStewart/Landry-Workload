@@ -337,11 +337,13 @@
       "title": "BVRT Seperate Instrument",
       "assignee": "",
       "bucket": "Internal Legal Review",
-      "due": "2026-05-13",
+      "due": "2026-05-18",
       "priority": "High",
       "pct": 0,
-      "notes": "Easement Exhibits being done by KHA\nEasement Language being done by CR",
-      "labels": [],
+      "notes": "Easement Exhibits being done by KHA\nEasement Language being done by CR\n\nForwarded to Chelsea 05/11",
+      "labels": [
+        "Waiting on Response"
+      ],
       "checklist": [],
       "id": 21,
       "created": "2026-05-05"

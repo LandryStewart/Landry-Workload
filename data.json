@@ -91,12 +91,14 @@
     {
       "title": "Terra Trace - Drainage Easement",
       "assignee": "",
-      "bucket": "To Do (Misc.)",
+      "bucket": "In Progress",
       "due": "2026-05-14",
       "priority": "Medium",
       "pct": 50,
-      "notes": "Sent email to Ron Frano.. Stephanie Cloud as first line of defense\n\nwaiting for Stephanie to response.\n\nSent to Landon to relay to CoFW. \n\nComptroller for signature authority? If this doesnt work, reach out to Franco asking for incorportation documents for his autohrity.",
-      "labels": [],
+      "notes": "Sent email to Ron Frano.. Stephanie Cloud as first line of defense\n\nwaiting for Stephanie to response.\n\nSent to city. Waiting for response\n\nSent to Landon to relay to CoFW. \n\nComptroller for signature authority? If this doesnt work, reach out to Franco asking for incorportation documents for his autohrity.",
+      "labels": [
+        "Waiting on Response"
+      ],
       "checklist": [],
       "id": 2,
       "created": "2026-05-05"

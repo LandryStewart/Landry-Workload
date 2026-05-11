@@ -771,12 +771,14 @@
     {
       "title": "Lonestar 2A - Title Policy",
       "assignee": "",
-      "bucket": "To Do (Misc.)",
-      "due": "2026-05-13",
+      "bucket": "In Progress",
+      "due": "2026-05-18",
       "priority": "Medium",
-      "pct": 0,
-      "notes": "Do we need phase 2A title policy?\n\nKick off.",
-      "labels": [],
+      "pct": 50,
+      "notes": "Do we need phase 2A title policy?\n\nKicked off. Jessica Peele completing",
+      "labels": [
+        "Waiting on Response"
+      ],
       "checklist": [],
       "id": 54,
       "created": "2026-05-11"

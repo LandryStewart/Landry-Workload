@@ -732,7 +732,9 @@
       "priority": "Critical",
       "pct": 80,
       "notes": "Who is signing these? when will these get signed?",
-      "labels": [],
+      "labels": [
+        "Waiting on Response"
+      ],
       "checklist": [],
       "id": 51,
       "created": "2026-05-11"
@@ -743,9 +745,11 @@
       "bucket": "To Do (ASAP)",
       "due": "2026-05-13",
       "priority": "Critical",
-      "pct": 0,
+      "pct": 80,
       "notes": "Property by property. need full detail\n\nJosh Westrom? (how can we get this across the finish line)",
-      "labels": [],
+      "labels": [
+        "Waiting on Response"
+      ],
       "checklist": [
         {
           "text": "Ketchersid",
@@ -761,7 +765,7 @@
       "bucket": "To Do (ASAP)",
       "due": "2026-05-13",
       "priority": "Critical",
-      "pct": 0,
+      "pct": 50,
       "notes": "",
       "labels": [
         "Waiting on Response"

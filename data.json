@@ -767,14 +767,12 @@
     {
       "title": "Legacy Fields - Updated District Schedule",
       "assignee": "",
-      "bucket": "To Do (ASAP)",
+      "bucket": "Completed",
       "due": "2026-05-13",
       "priority": "Critical",
-      "pct": 50,
+      "pct": 100,
       "notes": "",
-      "labels": [
-        "Waiting on Response"
-      ],
+      "labels": [],
       "checklist": [],
       "id": 53,
       "created": "2026-05-11"

@@ -921,8 +921,10 @@
       "due": "2026-05-21",
       "priority": "High",
       "pct": 0,
-      "notes": "Rian sent email to Chelsea. Needing for Excel.",
-      "labels": [],
+      "notes": "Rian sent email to Chelsea. Needing for Excel.\n\nNeeding Ketchersid (with Falcon under contract) / H.A Smith  (want to match 1.03 of cemetery) / Hillwood\n\n\n",
+      "labels": [
+        "FOR Court"
+      ],
       "checklist": [],
       "id": 66,
       "created": "2026-05-13"

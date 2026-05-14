@@ -283,7 +283,10 @@
       "priority": "Medium",
       "pct": 25,
       "notes": "Need to receive updated title before I can send to Germaine / Lori",
-      "labels": [],
+      "labels": [
+        "FOR Court",
+        "Waiting on Response"
+      ],
       "checklist": [],
       "id": 17,
       "created": "2026-05-05"

@@ -601,7 +601,7 @@
     {
       "title": "Lonestar 2A - CFA Process / Assignment",
       "assignee": "",
-      "bucket": "To Do (Misc.)",
+      "bucket": "To Do (ASAP)",
       "due": "2026-05-14",
       "priority": "Medium",
       "pct": 0,
@@ -964,7 +964,10 @@
       "pct": 0,
       "labels": [],
       "checklist": [],
-      "created": "2026-05-15"
+      "created": "2026-05-15",
+      "assignee": "",
+      "due": "",
+      "notes": ""
     }
   ],
   "notes": [

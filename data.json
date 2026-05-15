@@ -962,7 +962,8 @@
       "content": "Looks like there is an updated WOUS report - Need to determine what the path forward is. Waiting on rudi to follow up.",
       "folderId": 3,
       "created": "2026-05-14T19:48:10.827Z",
-      "updated": "2026-05-14T19:50:08.764Z"
+      "updated": "2026-05-14T19:50:08.764Z",
+      "linkedTaskId": null
     },
     {
       "id": 14,
@@ -970,7 +971,8 @@
       "content": "~Ag Exepmtions~\nTOEC - Phase 10 and common only active, no Ag and \nTerra Trace - Ph 1 common, 3 and 4 nothing in Ag, Rollbacks have been completed\nLegado - Ph 1 & common, 2,3, and 4 not platted, Nothing in ag, rollbacks have be completed\nHickory Grove - Ph 1a, 1b, 2 and 3 and commo, no ag, rollbacks have been done\nLonestar - Ph 1, nothing ag, rollbacks done\nAlpha - not in ag, notice of change, rollbacks have been triggered (Charlie Haynes)... SB was under impression this was in Ag.\nSaddleside - All in ag, no rollback trigger\nWillowstone - 4 parents, 3 of 4 in ag, no rollback trigger (254194 not in ag)\n\nAs we sell lots, when do we account for taxes?\nQuarterly FPNA gets liability spreadsheet for forecasted estimated. (March, June, September, December)\nCourtney trues it up every month, but can email property tax whenever for questions. \n\nTax protest savings - Courtney to send Stephen an update\n\n\n~Rollback Calculator~\nCourtney / Marilyn for estimator\n",
       "folderId": 5,
       "created": "2026-05-13T18:33:03.547Z",
-      "updated": "2026-05-13T18:49:30.353Z"
+      "updated": "2026-05-13T18:49:30.353Z",
+      "linkedTaskId": null
     },
     {
       "id": 13,
@@ -978,7 +980,8 @@
       "content": "Heather to send packet to fill out (Need plans, tie in, etc...), the town will submit on our behalf.\n\nHow will Northlake bill us (Northlake only has one meter downstream for all flows)? \n\nacquisition could take 6 months to 2 years... Lets hope not 2 years.... Hoping to bid November.\n\nSet up a meeting with brokers, TRA, and FOR - negotiated easement",
       "folderId": 2,
       "created": "2026-05-11T21:33:12.329Z",
-      "updated": "2026-05-11T21:38:56.155Z"
+      "updated": "2026-05-11T21:38:56.155Z",
+      "linkedTaskId": null
     },
     {
       "id": 12,
@@ -986,7 +989,8 @@
       "content": "Forward funding - portfolio sale was difficult. Underwriting rate at 6%, went up to 6.5%. Coverage ratio went to market at 1.5%, went up to 1.6%.\n\nWhen do we get preliminary numbers for AV / value added to the property? Up to FOR to push when we need bond sales and when we need it funded.\n\nPreliminary bonding (Dont want to issue bond for less than $1MM) from district attorney and FA. Will need to update FA monthly / quarterly for starts and sales to get better understanding of bond sales schedules.\n\nWater well = faster funding?\n\nAny district reimbursements / financing needs to go through Chris Hibbets\n\nPhase 1 road bond - Done previously but with larger phases and more infrastructure. How quickly can you build value before you actually get funding? Can take up to 6 months to get funding. (lots under contract is a huge component of bonding... Impacts interest rate and coverage ratio)\n\n\n\n\n\n\n\n\n",
       "folderId": 5,
       "created": "2026-05-11T18:03:13.706Z",
-      "updated": "2026-05-11T18:48:38.862Z"
+      "updated": "2026-05-11T18:48:38.862Z",
+      "linkedTaskId": null
     },
     {
       "id": 11,
@@ -994,7 +998,8 @@
       "content": "TIA recap - Need to button up phasing... Could we do north pod as TIA phase 1 and South as TIA phase 2? \n\nWe will more than likely beat BNSF regarding timing, so we need to account for this in our model.\n",
       "folderId": 2,
       "created": "2026-05-06T15:32:21.307Z",
-      "updated": "2026-05-06T15:40:35.506Z"
+      "updated": "2026-05-06T15:40:35.506Z",
+      "linkedTaskId": null
     },
     {
       "id": 6,
@@ -1002,7 +1007,8 @@
       "content": "June 2025 looked to amend directors, but nothing ever got adopted or recorded.\n\nBylaws / CCR's would need to be updated before we find new directors (if this is what we wanted to complete).\n\nShanta asked to dissolve commercial association - Forestar owns one certain parcel (northwest corner), and there are undeveloped commercial lots... Is FOR land under residential or commercial? Residential not run by FOR. **Answer** - If commercial does not own any land, or have not been collecting assessments, then it can be dissolved.\n\nWe can appoint a new board to put owners on the board and have us get out, or partially terminate (or assign) our declarant rights.\n\nWe can assign ARC / review rights to other people / members.\n\nStep 1) Amend and restate bylaws to appoint board\nStep 2) Update agent through Secretary of State\n\n",
       "folderId": 5,
       "created": "2026-05-05T19:00:36.263Z",
-      "updated": "2026-05-05T19:29:34.068Z"
+      "updated": "2026-05-05T19:29:34.068Z",
+      "linkedTaskId": null
     },
     {
       "id": 1,
@@ -1010,7 +1016,8 @@
       "content": "BNSF working through SS4A grant to improve Trail Creek, Downe, and Gulf. \n\nJustin wants TIA to be sent with counts, general phasing, and takedown.\n\nWWTP will be future public works building / are",
       "folderId": 2,
       "created": "2026-05-05T15:16:30.917Z",
-      "updated": "2026-05-05T18:39:52.567Z"
+      "updated": "2026-05-05T18:39:52.567Z",
+      "linkedTaskId": null
     }
   ],
   "nextId": 71,
@@ -1050,5 +1057,7 @@
       "updated": "2026-05-05T17:58:12.017Z"
     }
   ],
-  "nextFolderId": 6
+  "nextFolderId": 6,
+  "filterPresets": [],
+  "sidebarCollapsed": false
 }

@@ -204,21 +204,23 @@
           "title": "Saddleside - First Amendment SUA",
           "assignee": "",
           "bucket": "Internal Legal Review",
-          "due": "2026-05-18",
+          "due": "2026-05-25",
           "priority": "High",
           "pct": 25,
-          "notes": "Follow up for word document\n\nFollowed up 05/07. If we dont get by 05/08, take it into our own hands",
+          "notes": "Follow up for word document\n\nFollowed up 05/07. If we dont get by 05/08, take it into our own hands\n\nSent to Chelsea 05/11. Followed up 05/18.",
           "labels": [
+            "FOR Court",
             "Waiting on Response"
           ],
           "checklist": [
             {
               "text": "KHA to update exhibits",
-              "done": false
+              "done": true
             }
           ],
           "id": 13,
-          "created": "2026-05-05"
+          "created": "2026-05-05",
+          "filePath": ""
         },
         {
           "title": "Saddleside - 10' Coserv UE",

@@ -1011,7 +1011,7 @@
       ],
       "nextId": 72,
       "nextNoteId": 16,
-      "darkMode": false,
+      "darkMode": true,
       "compact": false,
       "myName": "",
       "folders": [
@@ -1100,5 +1100,5 @@
       "sidebarCollapsed": false
     }
   },
-  "activeWorkspace": "personal"
+  "activeWorkspace": "work"
 }
